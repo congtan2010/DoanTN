@@ -1,0 +1,7 @@
+{
+    "Blog": true,
+    "User": true,
+    "AdminModules": true,
+    "AuthModules": true,
+    "UserModules": true
+}
